@@ -45,29 +45,22 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 ![Screenshot 2025-04-22 214658](https://github.com/user-attachments/assets/89ed73c4-ca95-4f21-b2f1-3a5ba2b67781)
 
 
-- Enter a **Case Name** (e.g., `Autopsy-1`).  
+- Enter a **Case Name** (e.g., `dk_structure`).  
 - Choose a **Case Folder** location.  
 - Click **Next** → Click **Finish**.  
 
+<img width="969" height="579" alt="Screenshot 2025-09-06 174459" src="https://github.com/user-attachments/assets/01d16552-3c8b-4cd4-8cd6-651cf49c3399" />
 
-![Screenshot 2025-04-22 215824](https://github.com/user-attachments/assets/6d60e194-4850-421e-9bf9-b2c758f49d81)
 
 ### **Add the Virtual Disk as an Evidence Source**  
 - Click **Add Data Source**  → **Select Host**
-![Screenshot 2025-04-22 220051](https://github.com/user-attachments/assets/749bc8d2-22f8-464f-9824-ca774c859132)
+
+<img width="1074" height="671" alt="Screenshot 2025-09-06 174705" src="https://github.com/user-attachments/assets/ed971338-f298-4ee4-8dc9-226c89f98ac2" />
 
 
 - Select **Local Disk** → **next** 
 
-![Screenshot 2025-04-22 220110](https://github.com/user-attachments/assets/e56a9fe1-1c83-4256-aea6-16004f93e63e)
-
-
-
-- Select Disk → **Choose the VHD drive (`New Volume(E:`)**
-
-![Screenshot 2025-04-25 085756](https://github.com/user-attachments/assets/8ece4b7b-8d76-4feb-b87c-83cf128ca89b)
-
-
+<img width="1075" height="671" alt="Screenshot 2025-09-06 174744" src="https://github.com/user-attachments/assets/a32d1746-4703-47a2-8c0b-9363115ae7f8" />
 
 - Click **Next** → Keep default settings → Click **Finish**.  
 - Wait for Autopsy to process the disk.  
@@ -79,8 +72,7 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
 
-![Screenshot 2025-04-23 134006](https://github.com/user-attachments/assets/bb9e03c6-3e37-4818-a612-d3113ca590b7)
-
+<img width="1711" height="953" alt="Screenshot 2025-09-06 174905" src="https://github.com/user-attachments/assets/dcbf8ab7-3edd-4590-8088-cf7505af77c4" />
 
 - Click OS Account
 
